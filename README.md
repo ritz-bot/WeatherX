@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Live Weather App - WeatherX🌦️
 
 Welcome to the **Live Weather App** project! This application is built using **React.js** and provides real-time weather updates for any location in the world. The app fetches weather data from an external API and displays it dynamically, along with visual cues that adapt to the current weather conditions.
@@ -14,6 +14,7 @@ The core features of the application include:
 - Current temperature, humidity, wind speed, and dynamic date display 📅
 - Weather type-based icons (clear, clouds, rain, snow, haze, mist) 🌤️
 - Fully responsive design for different screen sizes and devices 📱💻
+  
 ![Xnip2024-10-19_16-29-18](https://github.com/user-attachments/assets/470d0784-864a-42f1-a963-b9492b33404b)
 
 ## Features
@@ -22,6 +23,7 @@ The core features of the application include:
    - Users can search for any city in the world using the search input field.
    - For example, you can search for cities like London, Tokyo, New York, Paris, etc.
    - If an invalid location is entered, an error message ("Location Not Found") is displayed.
+     
    ![Xnip2024-10-19_16-29-45](https://github.com/user-attachments/assets/6f9bc53d-0720-42e3-bfb1-5e2715f05d08)
 
 2. **Dynamic Weather Data**:
