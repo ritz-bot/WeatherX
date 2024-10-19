@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Live Weather App - WeatherX🌦️
 
 Welcome to the **Live Weather App** project! This application is built using **React.js** and provides real-time weather updates for any location in the world. The app fetches weather data from an external API and displays it dynamically, along with visual cues that adapt to the current weather conditions.
@@ -88,3 +89,13 @@ The app should now be running at `https://weatherx.ridhampuri.in/`.
 ## Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute to the project.
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 67a65e8 (first Push)
