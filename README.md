@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/live-weather-app.git
+   git clone https://github.com/ritz-bot/live-weather-app.git
    ```
 2. Navigate into the project directory:
    ```bash
