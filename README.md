@@ -1,4 +1,4 @@
-# Live Weather App 🌦️
+# Live Weather App - WeatherX🌦️
 
 Welcome to the **Live Weather App** project! This application is built using **React.js** and provides real-time weather updates for any location in the world. The app fetches weather data from an external API and displays it dynamically, along with visual cues that adapt to the current weather conditions.
 
